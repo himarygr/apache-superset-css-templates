@@ -1,0 +1,10 @@
+body{
+    background: f1f1f1; 
+}
+
+
+  .grid-content .dragdroppable-row .dragdroppable-column .dashboard-component-chart-holder {
+    
+    border-radius:25px;
+    box-shadow: 0px 10px 30px #ffdbe7;
+  }
