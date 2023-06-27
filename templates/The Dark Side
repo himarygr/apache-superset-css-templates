@@ -1,0 +1,27 @@
+.ant-tabs-content-holder{
+  background: transparent !important;
+}
+
+
+.ant-tabs-content-holder * {
+  color: #fff !important;
+}
+.ant-tabs-tab-active *{
+  font-weight: bold !important;
+}
+.dashboard-content{
+    background-image: linear-gradient(-45deg, #111, #222);
+    font-family: 'Inter', sans-serif;
+}
+
+.dashboard-component{
+    background-image: linear-gradient(-45deg, #2f2f2f, #202020);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,.7) !important;
+    
+}
+
+.dashboard-component-tabs{
+  background: transparent;
+  box-shadow: none !important;
+}
