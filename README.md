@@ -1,4 +1,4 @@
-# CSS_Templates_Superset
+# Apache Superset CSS Templates
 A catalog of CSS templates I developed to style the dashboard in Apache Superset
 
 ### Goal: 
