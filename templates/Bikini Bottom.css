@@ -1,0 +1,11 @@
+body {
+    background: #0080FF;
+    background-image: radial-gradient(circle at 20% 20%, #76daff 0%, #0080ff 100%);
+}
+
+.grid-content .dragdroppable-row .dragdroppable-column .dashboard-component-chart-holder {
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 25px;
+    box-shadow: 0 10px 30px rgba(0, 128, 255, 0.3);
+    border: 3px solid #ffffff;
+}
