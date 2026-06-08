@@ -1,0 +1,22 @@
+body {
+    background: #FFF000;
+}
+
+.grid-content .dragdroppable-row .dragdroppable-column .dashboard-component-chart-holder {
+    background-color: #FFFFFF;
+    border: 5px solid #4B2C20;
+    border-radius: 10px;
+    box-shadow: 10px 10px 0px #FF0000;
+}
+
+.ant-tabs-nav {
+    background-color: #4B2C20 !important;
+}
+
+.ant-tabs-tab {
+    color: #FFFFFF !important;
+}
+
+.ant-tabs-tab-active {
+    background-color: #FF0000 !important;
+}
